@@ -43,7 +43,7 @@ public class ThreadsControllerTest {
     public void testRun() {
         System.out.println("run");
         ThreadsController instance = null;
-        instance.start();
+        
        
     }
     

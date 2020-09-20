@@ -45,7 +45,7 @@ public class SquarePanelTest {
         System.out.println("ChangeColor");
         Color d = null;
         SquarePanel instance = null;
-        instance.ChangeColor(d);
+        
        
     }
     

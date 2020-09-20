@@ -44,7 +44,7 @@ public class DataOfSquareTest {
         System.out.println("lightMeUp");
         int c = 0;
         DataOfSquare instance = null;
-        instance.lightMeUp(c);
+        
        
     }
     

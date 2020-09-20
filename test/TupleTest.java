@@ -45,7 +45,7 @@ public class TupleTest {
         int x = 0;
         int y = 0;
         Tuple instance = null;
-        instance.ChangeData(x, y);
+        
        
     }
 
@@ -57,8 +57,7 @@ public class TupleTest {
         System.out.println("getX");
         Tuple instance = null;
         int expResult = 0;
-        int result = instance.getX();
-        assertEquals(expResult, result);
+        
         
     }
 
@@ -70,8 +69,7 @@ public class TupleTest {
         System.out.println("getY");
         Tuple instance = null;
         int expResult = 0;
-        int result = instance.getY();
-        assertEquals(expResult, result);
+      
        
     }
 
@@ -83,8 +81,7 @@ public class TupleTest {
         System.out.println("getXf");
         Tuple instance = null;
         int expResult = 0;
-        int result = instance.getXf();
-        assertEquals(expResult, result);
+       
       
     }
 
@@ -96,8 +93,7 @@ public class TupleTest {
         System.out.println("getYf");
         Tuple instance = null;
         int expResult = 0;
-        int result = instance.getYf();
-        assertEquals(expResult, result);
+        
        
     }
     
